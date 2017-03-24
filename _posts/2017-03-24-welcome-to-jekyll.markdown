@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Lorem Ipsum!"
 date:   2017-03-24 01:44:20 +0100
-categories: [jekyll update]
-tags: [tag1], [tag2]
+categories: [jekyll_update]
+tags: [projects]
 ---
 
 What is Lorem Ipsum?
